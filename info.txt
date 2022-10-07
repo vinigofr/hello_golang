@@ -1,3 +1,0 @@
-1 - Imagem no máximo 2mb
-2 - Gerar imagem Go que retorne "Full Cycle Rocks"
-3 - Gerar o binário
